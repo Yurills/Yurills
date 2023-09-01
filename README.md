@@ -2,13 +2,13 @@
 <section id="introduction">
 	<div>
 		<h1> HI!! I'm Yurill, Rawit Pholngam. At your service !! 🫡🫡 </h1>
-		<p>  Salutations, code explorers! 🚀🌌 I'm currently a programming engineer student in Chulalongkorn University, I'm here to collaborate share, and grow in the world of programming. Together, we can craft solutions and explore the depths of code !! 🌟</p>
+		<p>  Salutations, code explorers! 🚀🌌 I'm currently a programming engineer student in Chulalongkorn University, I'm here to collaborate share, and grow in the world of programming. Together, we can craft solutions and explore programming !! 🌟</p>
 		<ul>
 			<li> 🧳 Currently based in Thailand</li>
 			<li> 🧠 2-3 years of experiences in basic programming</li>
 			<li> 🥐 CEDT at Chulalongkorn University</li>
 			<li> 📭 Reach me at yurill.rawitpholngam@gmail.com</li>
-			<li> 🐉 Dungeons and Dragons enjoyer ! </li>
+			<li> 🐉 Dungeons and Dragons !</li>
 		</ul>
 	</div>
 		
