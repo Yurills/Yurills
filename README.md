@@ -2,7 +2,7 @@
 <section id="introduction">
 	<div>
 		<h1> HI!! I'm Yurill, Rawit Pholngam. At your service !! 🫡🫡 </h1>
-		<p>  Salutations, code explorers! 🚀🌌 I'm currently a programming engineer student in Chulalongkorn University, I'm here to collaborate share, and grow in the world of programming. Together, we can craft solutions and explore programming !! 🌟</p>
+		<p>  life is roblox🌟</p>
 		<ul>
 			<li> 🧳 Currently based in Thailand</li>
 			<li> 🧠 2-3 years of experiences in basic programming</li>
