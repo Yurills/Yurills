@@ -5,7 +5,6 @@
 		<p>  life is roblox🌟</p>
 		<ul>
 			<li> 🧳 Currently based in Thailand</li>
-			<li> 🧠 2-3 years of experiences in basic programming</li>
 			<li> 🥐 CEDT at Chulalongkorn University</li>
 			<li> 📭 Reach me at yurill.rawitpholngam@gmail.com</li>
 			<li> 🐉 Dungeons and Dragons !</li>
