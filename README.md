@@ -13,16 +13,7 @@
 </section>
 
 
-<section  id="tools">
-	<div>
- 		<h2> Languages and Tools</h2>
-		<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" height=50 width=50">&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" height=50 width=50">&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" height=50 width=50">&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" height=50 width=50">&nbsp;
-	  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" height=50 width=50">&nbsp;
-	</div>
-</section>
+
 </html>
 
 
