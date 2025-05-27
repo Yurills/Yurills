@@ -7,7 +7,6 @@
 			<li> 🧳 Currently based in Thailand</li>
 			<li> 🥐 CEDT at Chulalongkorn University</li>
 			<li> 📭 Reach me at yurill.rawitpholngam@gmail.com</li>
-
 		</ul>
 	</div>
 		
