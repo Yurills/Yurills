@@ -2,7 +2,7 @@
 <section id="introduction">
 	<div>
 		<h1> HI!! I'm Yurill, Rawit Pholngam. At your service !! 🫡🫡 </h1>
-		<p>  life is roblox🌟</p>
+		<p>  profile in development (?)</p>
 		<ul>
 			<li> 🧳 Currently based in Thailand</li>
 			<li> 🥐 CEDT at Chulalongkorn University</li>
